@@ -22,7 +22,7 @@ Once these steps are concluded you can use insomnia and the CRUD method to add t
 
 ## Usage
 
-demo video:
+demo video: 'https://drive.google.com/file/d/1PTJwlfA2qbVA8PvxNu3bminQpKlxvoBt/view'
 
 ![Screenshot](./assets/e-comm-scrnshot.JPG)
 
